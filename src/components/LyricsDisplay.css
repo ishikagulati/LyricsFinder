@@ -1,0 +1,10 @@
+.lyrics-display {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    white-space: pre-wrap; /* Preserve whitespace formatting */
+    text-align: left;
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
